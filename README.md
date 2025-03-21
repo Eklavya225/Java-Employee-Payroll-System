@@ -1,10 +1,2 @@
 # Java-Employee-Payroll-System
-This is a simple Java project designed to manage employee payroll operations. It serves as a foundational application showcasing core Java concepts and basic payroll functionality.
-
-Features
-Add and manage employee details.
-Calculate employee salaries.
-Basic implementation of object-oriented programming (OOP) concepts.
-Technologies Used
-Language: Java
-Tools: Command-line interface
+The **Employee Payroll Management System** is a simple Java-based project designed to manage basic payroll operations. It demonstrates core Java programming concepts such as classes, objects, inheritance, and file handling, making it an excellent learning tool for beginners. The system allows users to add and manage employee details, calculate salaries, and perform basic payroll functions. The project is run through the command line, with a straightforward implementation focused on simplicity and functionality. It serves as a foundation for understanding Java programming and can be enhanced in the future with features like database integration, advanced salary calculations, and a graphical user interface (GUI) for improved usability.
